@@ -1,0 +1,13 @@
+H:\POO\Att_Introdução\Att_Introdução\bin\Debug\Att_Introdução.exe.config
+H:\POO\Att_Introdução\Att_Introdução\bin\Debug\Att_Introdução.exe
+H:\POO\Att_Introdução\Att_Introdução\bin\Debug\Att_Introdução.pdb
+H:\POO\Att_Introdução\Att_Introdução\obj\Debug\Classes_Nome.csproj.AssemblyReference.cache
+H:\POO\Att_Introdução\Att_Introdução\obj\Debug\Classes_Nome.csproj.SuggestedBindingRedirects.cache
+H:\POO\Att_Introdução\Att_Introdução\obj\Debug\Att_Introdução.FrmPrefeito.resources
+H:\POO\Att_Introdução\Att_Introdução\obj\Debug\Att_Introdução.FrmLoja.resources
+H:\POO\Att_Introdução\Att_Introdução\obj\Debug\Att_Introdução.FrmAlimento.resources
+H:\POO\Att_Introdução\Att_Introdução\obj\Debug\Att_Introdução.Properties.Resources.resources
+H:\POO\Att_Introdução\Att_Introdução\obj\Debug\Classes_Nome.csproj.GenerateResource.cache
+H:\POO\Att_Introdução\Att_Introdução\obj\Debug\Classes_Nome.csproj.CoreCompileInputs.cache
+H:\POO\Att_Introdução\Att_Introdução\obj\Debug\Att_Introdução.exe
+H:\POO\Att_Introdução\Att_Introdução\obj\Debug\Att_Introdução.pdb
